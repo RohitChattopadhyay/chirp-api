@@ -1,1 +1,1 @@
-web: bin/chirp-api
+web: chirp-api
