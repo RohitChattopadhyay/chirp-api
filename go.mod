@@ -1,3 +1,3 @@
-require (
-    github.com/gorilla/mux
-)
+module /bin/chirp-api
+
+require github.com/gorilla/mux
